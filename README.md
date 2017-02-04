@@ -2,7 +2,7 @@
 The ActionScript 3 (AS3) port of character(キャラクターなんとか機), not very good.  
 
 ## Demo  
-* xxx
+* https://weimingtom.github.io/MyChar/  
 
 ## Status  
 I no longer maintain it.  
