@@ -4,6 +4,10 @@ The ActionScript 3 (AS3) port of character(キャラクターなんとか機), n
 ## Demo  
 * https://weimingtom.github.io/MyChar/  
 
+## Ref  
+* キャラクターなんとか機 - KHみっくす ふぁーすと えでぃしょん  
+http://khmix.sakura.ne.jp/download.shtml  
+
 ## Status  
 I no longer maintain it.  
 
